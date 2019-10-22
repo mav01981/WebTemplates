@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\n/* Provide sufficient contrast against white background */\na {\n  color: #0366d6; }\ncode {\n  color: #e01a76; }\n.btn-primary {\n  color: #fff;\n  background-color: #1b6ec2;\n  border-color: #1861ac; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxcVXNlcnNcXEpvbmF0aGFuXFxzb3VyY2VcXHJlcG9zXFxNVkNBbmd1bGFyXFxNVkNBbmd1bGFyL3NyY1xcc3R5bGVzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsOEVBQUE7QUFFQSx5REFBQTtBQUNBO0VBQ0ksY0FBYyxFQUFBO0FBR2xCO0VBQ0ksY0FBYyxFQUFBO0FBR2xCO0VBQ0ksV0FBVztFQUNYLHlCQUF5QjtFQUN6QixxQkFBcUIsRUFBQSIsImZpbGUiOiJzcmMvc3R5bGVzLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiBZb3UgY2FuIGFkZCBnbG9iYWwgc3R5bGVzIHRvIHRoaXMgZmlsZSwgYW5kIGFsc28gaW1wb3J0IG90aGVyIHN0eWxlIGZpbGVzICovXG5cbi8qIFByb3ZpZGUgc3VmZmljaWVudCBjb250cmFzdCBhZ2FpbnN0IHdoaXRlIGJhY2tncm91bmQgKi9cbmEge1xuICAgIGNvbG9yOiAjMDM2NmQ2O1xufVxuXG5jb2RlIHtcbiAgICBjb2xvcjogI2UwMWE3Njtcbn1cblxuLmJ0bi1wcmltYXJ5IHtcbiAgICBjb2xvcjogI2ZmZjtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMWI2ZWMyO1xuICAgIGJvcmRlci1jb2xvcjogIzE4NjFhYztcbn1cbiJdfQ== */", '', '']]
+module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\n/* Provide sufficient contrast against white background */\na {\n  color: #0366d6; }\ncode {\n  color: #e01a76; }\n.btn-primary {\n  color: #fff;\n  background-color: #1b6ec2;\n  border-color: #1861ac; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxcVXNlcnNcXEpvbmF0aGFuXFxzb3VyY2VcXHJlcG9zXFxXZWJUZW1wbGF0ZXNcXE1WQ0FuZ3VsYXIvc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSw4RUFBQTtBQUVBLHlEQUFBO0FBQ0E7RUFDSSxjQUFjLEVBQUE7QUFHbEI7RUFDSSxjQUFjLEVBQUE7QUFHbEI7RUFDSSxXQUFXO0VBQ1gseUJBQXlCO0VBQ3pCLHFCQUFxQixFQUFBIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFlvdSBjYW4gYWRkIGdsb2JhbCBzdHlsZXMgdG8gdGhpcyBmaWxlLCBhbmQgYWxzbyBpbXBvcnQgb3RoZXIgc3R5bGUgZmlsZXMgKi9cblxuLyogUHJvdmlkZSBzdWZmaWNpZW50IGNvbnRyYXN0IGFnYWluc3Qgd2hpdGUgYmFja2dyb3VuZCAqL1xuYSB7XG4gICAgY29sb3I6ICMwMzY2ZDY7XG59XG5cbmNvZGUge1xuICAgIGNvbG9yOiAjZTAxYTc2O1xufVxuXG4uYnRuLXByaW1hcnkge1xuICAgIGNvbG9yOiAjZmZmO1xuICAgIGJhY2tncm91bmQtY29sb3I6ICMxYjZlYzI7XG4gICAgYm9yZGVyLWNvbG9yOiAjMTg2MWFjO1xufVxuIl19 */", '', '']]
 
 /***/ }),
 
@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Jonathan\source\repos\MVCAngular\MVCAngular\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! C:\Users\Jonathan\source\repos\WebTemplates\MVCAngular\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })
